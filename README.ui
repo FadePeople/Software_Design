@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>README</class>
+ <widget class="QWidget" name="README">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>814</width>
+    <height>569</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>README</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>20</y>
+     <width>281</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(170, 255, 255);
+font: 24pt &quot;Arial&quot;;</string>
+   </property>
+   <property name="text">
+    <string>  投稿审稿须知</string>
+   </property>
+  </widget>
+  <widget class="Line" name="line">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>110</y>
+     <width>791</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>0</width>
+     <height>0</height>
+    </size>
+   </property>
+   <property name="mouseTracking">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(0, 0, 255);</string>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Horizontal</enum>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>140</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>一、本刊倡导学术创新，鼓励百家争鸣，遵循学术规范，注重经世致用，重点刊用创新性、思想性和理论性强，具有重</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>160</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>要的学术价值，或能为经济建设与社会发展提供理论支持、具有重大现实意义的优秀论文。来稿要求立论新颖，观点明</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>180</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>确，证据充分，材料翔实，数据可靠，文法规范，文字精炼，字数一般要求在1000字以上，特别重要稿件可不受此限。</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>200</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>二、来稿请署明作者姓名、出生年、性别、民族（汉族可省略）、籍贯、职称、学位及工作单位、详细通讯地址、邮政</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_6">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>220</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>编码、联系电话、电子邮箱等。</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_7">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>240</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>三、来稿如系基金资助产出的文章，应注明基金项目的具体名称和项目编号。</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_8">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>260</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>四、本刊参考文献采用页下注释体例，参考文献和注释均置于当页地脚（页下注），每页编序码，序号用①②③标示。</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_9">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>280</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>五、请作者严格遵守相关法律法规和学术规范，由于文稿引起的著作权纠纷，作者自负其责。文稿所持观点不代表本刊</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_10">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>300</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>意见和立场，文责自负。</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_11">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>320</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>六、依照《中华人民共和国著作权法》第33条之规定，本刊编辑有权对来稿作文字、技术方面的修改、删节，凡不愿意</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_12">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>340</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>改动者，本刊将作退稿处理。</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_13">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>360</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>七、本刊已许可《中国学术期刊（光盘版）》及国内外其他文献数据库以数字化方式复制、汇编、发行、信息网络传播</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_14">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>380</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>本刊全文。其著作权使用费与本刊稿酬一并支付。作者向本刊提交文稿发表的行为即视为同意上述声明。</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_15">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>400</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>八、本刊维护首发权，请勿一稿多投。投稿后逾三个月未见用稿通知，表示本刊不予采用，作者可自行处理。因来稿量</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_16">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>420</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>大，限于人力，恕不一一告知具体审稿意见。</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_17">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>450</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>九、投稿方式：请使用该投稿系统注册登录后完成投稿。</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_19">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>480</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>十、用稿政策：</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_20">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>500</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>本刊实行编辑部审稿与同行专家双向匿名审稿相结合的审稿制度。来稿由责任编辑负责初审，初审通过后采双向匿名方</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_21">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>520</y>
+     <width>791</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>式送请相关专家复审。所有文稿经审查通过后始交主编主持之定稿会议决定刊用与否。</string>
+   </property>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
